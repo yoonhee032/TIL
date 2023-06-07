@@ -1,12 +1,15 @@
 import React from "react";
-import "./Button1.css";
+// import "./Button1.css";
+import style from "./Button2.module.css";
+import cn from "classnames";
 
 function Button({ size }) {
   if (size === "big") {
-    return <button className="button big">큰 버튼</button>;
+    return <button className={cn(style.button, style.big)}>큰 버튼</button>;
   } else {
-    return <button className="button small">작은 버튼</button>;
+    return <button className={cn(style.button, style.small)}>작은 버튼</button>;
   }
 }
 
 export default Button;
+console.log(style);
