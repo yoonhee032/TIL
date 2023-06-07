@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Button from "./Button1";
-import Box from "./Box2";
+import Box from "./Box3";
 
 class App extends Component {
   render() {
