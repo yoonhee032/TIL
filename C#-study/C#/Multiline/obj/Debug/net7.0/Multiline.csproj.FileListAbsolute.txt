@@ -1,0 +1,15 @@
+C:\Users\dldbs\source\repos\Multiline\bin\Debug\net7.0\Multiline.exe
+C:\Users\dldbs\source\repos\Multiline\bin\Debug\net7.0\Multiline.deps.json
+C:\Users\dldbs\source\repos\Multiline\bin\Debug\net7.0\Multiline.runtimeconfig.json
+C:\Users\dldbs\source\repos\Multiline\bin\Debug\net7.0\Multiline.dll
+C:\Users\dldbs\source\repos\Multiline\bin\Debug\net7.0\Multiline.pdb
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.csproj.AssemblyReference.cache
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.AssemblyInfoInputs.cache
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.AssemblyInfo.cs
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.csproj.CoreCompileInputs.cache
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.dll
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\refint\Multiline.dll
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.pdb
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\Multiline.genruntimeconfig.cache
+C:\Users\dldbs\source\repos\Multiline\obj\Debug\net7.0\ref\Multiline.dll

@@ -1,0 +1,15 @@
+C:\Users\dldbs\source\repos\IntegralLiterals\bin\Debug\net7.0\IntegralLiterals.exe
+C:\Users\dldbs\source\repos\IntegralLiterals\bin\Debug\net7.0\IntegralLiterals.deps.json
+C:\Users\dldbs\source\repos\IntegralLiterals\bin\Debug\net7.0\IntegralLiterals.runtimeconfig.json
+C:\Users\dldbs\source\repos\IntegralLiterals\bin\Debug\net7.0\IntegralLiterals.dll
+C:\Users\dldbs\source\repos\IntegralLiterals\bin\Debug\net7.0\IntegralLiterals.pdb
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.csproj.AssemblyReference.cache
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.AssemblyInfoInputs.cache
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.AssemblyInfo.cs
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.csproj.CoreCompileInputs.cache
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.dll
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\refint\IntegralLiterals.dll
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.pdb
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\IntegralLiterals.genruntimeconfig.cache
+C:\Users\dldbs\source\repos\IntegralLiterals\obj\Debug\net7.0\ref\IntegralLiterals.dll

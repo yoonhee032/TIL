@@ -1,0 +1,15 @@
+C:\Users\dldbs\source\repos\StringSlice\bin\Debug\net7.0\StringSlice.exe
+C:\Users\dldbs\source\repos\StringSlice\bin\Debug\net7.0\StringSlice.deps.json
+C:\Users\dldbs\source\repos\StringSlice\bin\Debug\net7.0\StringSlice.runtimeconfig.json
+C:\Users\dldbs\source\repos\StringSlice\bin\Debug\net7.0\StringSlice.dll
+C:\Users\dldbs\source\repos\StringSlice\bin\Debug\net7.0\StringSlice.pdb
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.csproj.AssemblyReference.cache
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.AssemblyInfoInputs.cache
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.AssemblyInfo.cs
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.csproj.CoreCompileInputs.cache
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.dll
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\refint\StringSlice.dll
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.pdb
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\StringSlice.genruntimeconfig.cache
+C:\Users\dldbs\source\repos\StringSlice\obj\Debug\net7.0\ref\StringSlice.dll

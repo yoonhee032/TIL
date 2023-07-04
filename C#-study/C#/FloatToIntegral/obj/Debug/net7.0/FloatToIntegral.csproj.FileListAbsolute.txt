@@ -1,0 +1,15 @@
+C:\Users\dldbs\source\repos\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.exe
+C:\Users\dldbs\source\repos\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.deps.json
+C:\Users\dldbs\source\repos\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.runtimeconfig.json
+C:\Users\dldbs\source\repos\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.dll
+C:\Users\dldbs\source\repos\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.pdb
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.csproj.AssemblyReference.cache
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.AssemblyInfoInputs.cache
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.AssemblyInfo.cs
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.dll
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\refint\FloatToIntegral.dll
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.pdb
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.genruntimeconfig.cache
+C:\Users\dldbs\source\repos\FloatToIntegral\obj\Debug\net7.0\ref\FloatToIntegral.dll

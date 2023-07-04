@@ -1,0 +1,15 @@
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.csproj.AssemblyReference.cache
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.AssemblyInfoInputs.cache
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.AssemblyInfo.cs
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.csproj.CoreCompileInputs.cache
+C:\Users\dldbs\source\repos\FloatConversion\bin\Debug\net7.0\FloatConversion.exe
+C:\Users\dldbs\source\repos\FloatConversion\bin\Debug\net7.0\FloatConversion.deps.json
+C:\Users\dldbs\source\repos\FloatConversion\bin\Debug\net7.0\FloatConversion.runtimeconfig.json
+C:\Users\dldbs\source\repos\FloatConversion\bin\Debug\net7.0\FloatConversion.dll
+C:\Users\dldbs\source\repos\FloatConversion\bin\Debug\net7.0\FloatConversion.pdb
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.dll
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\refint\FloatConversion.dll
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.pdb
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\FloatConversion.genruntimeconfig.cache
+C:\Users\dldbs\source\repos\FloatConversion\obj\Debug\net7.0\ref\FloatConversion.dll
